@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "id": "ACC-8183",
+      "holderName": "John Doe",
+      "balance": 1000,
+      "createdAt": "2026-02-15T00:13:41.821Z",
+      "transactions": [
+        {
+          "type": "DEPOSIT",
+          "amount": 1000,
+          "timestamp": "2026-02-15T00:13:41.821Z",
+          "balanceAfter": 1000,
+          "description": "Initial deposit"
+        }
+      ]
+    }
+  ]
+}
